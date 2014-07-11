@@ -1,0 +1,3 @@
+name: ParadoxDev-t3
+main: com.tenjava.entries.ParadoxDev.t3.TenJava
+version: '${project.version}'
